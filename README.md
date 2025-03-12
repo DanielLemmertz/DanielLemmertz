@@ -4,9 +4,7 @@
 
 ## Ferramentas e Tecnologias
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Embarcadero_Delphi_10.3_Logo.svg" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> | <img src="https://i.imgur.com/Eu7VfEX.png" width="40" height="40" alt="Delphi Logo" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="40" height="40"/>
 
 
 ## Contatos:

@@ -1,8 +1,6 @@
 # Hello friend, Welcome. 👋
-## My name is Daniel Lemmertz and my nickname is "DanielLemmertz"!
 
-
-## Ferramentas e Tecnologias
+## Tools and Technologies
 
 <div style="display: flex; gap: 10px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
@@ -12,7 +10,7 @@
 </div>
 
 
-## Contatos:
+## Contacts:
 
 <div>
 <a href="https://www.youtube.com/@DaniellemmertzM" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>

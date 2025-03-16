@@ -2,17 +2,8 @@
 
 ## Tools and Technologies
 
-<head>
-  <style>
-    .tecnologias{
-      display: flex;
-      align-items: center;
-      gap: 10px;
-      background-color: #535353;
-      }
-  </style>
-</head>
-<div style="display: flex; gap: 10px; align-items: center;">
+
+<div style="display: flex; gap: 10px; align-items: center; bacground-color: #535353;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
   <img src="https://d2ohlsp9gwqc7h.cloudfront.net/images/logos/logo-page/rad-studio-logo-1024.png" width="40" height="40" alt="Delphi" />
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40" alt="SQL Server" />

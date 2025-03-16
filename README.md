@@ -2,7 +2,8 @@
 
 ## Tools and Technologies
 
-<div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
+
+<div style="display: flex; gap: 10px; align-items: center; flex-direction: row; flex-wrap: wrap;">
   <div style="background-color: #535353; padding: 8px; border-radius: 8px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
   </div>

@@ -25,7 +25,7 @@
 
 <div>
 <a href="https://github.com/DanielLemmertz">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielLemmertz&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielLemmertz&&include_all_commits=true&count_private=true&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielLemmertz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </a>
 </div>

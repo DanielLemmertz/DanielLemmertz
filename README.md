@@ -95,17 +95,6 @@
 <hr/>
 <br/>
 
-<p align="center">
-  <a href="https://github.com/DanielLemmertz">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielLemmertz&theme=radical&border=7F3FBF&background=0D1117" alt="Daniel's GitHub streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/DanielLemmertz">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanielLemmertz&theme=radical" alt="Daniel's GitHub Contribution"/>
-  </a>
-</p>
 
 
 ![Daniel's Graph](https://github-readme-activity-graph.vercel.app/graph?username=DanielLemmertz&custom_title=Daniel's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
